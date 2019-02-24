@@ -28,8 +28,8 @@ assertEquals("Hello World!",sm.printHello());
 	public void testAdd() {
 		
 sm = new SampleProject();
-		int a = 23+45;
-		assertEquals(a,sm.add(23, 45));
+		int a = 23+46;
+		assertEquals(a,sm.add(23, 46));
 	}
 
 }
